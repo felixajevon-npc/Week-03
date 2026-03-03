@@ -27,7 +27,7 @@ Sesuai dengan modul pembelajaran, program ini menerapkan beberapa konsep utama:
 ## 🚀 Cara Menjalankan Program
 1. Pastikan Dart SDK sudah terinstal di perangkat komputer Anda.
 2. Buka terminal atau *command prompt*.
-3. Arahkan direktori aktif ke folder tempat file `main.dart` disimpan.
-4. Jalankan perintah berikut:
+3. Arahkan direktori aktif ke folder utama proyek ini.
+4. Karena file utama berada di dalam folder `src`, jalankan perintah berikut:
    ```bash
-   dart run main.dart
+   dart run src/main.dart
