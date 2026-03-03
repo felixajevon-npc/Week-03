@@ -8,8 +8,6 @@
 - **Semester:** 4
 - **Program Studi:** Sistem Informasi Bisnis
 - **Mata Kuliah:** Pemrograman Mobile
-- **Dosen Pengampu:** Ibu Amalia
-- [cite_start]**Institusi:** Politeknik Negeri Malang [cite: 304]
 
 ## 📝 Deskripsi Program
 Program yang dibuat adalah **Katalog Rekomendasi Anime Romance Underrated**. Program berbasis *Command Line Interface* (CLI) ini akan menampilkan daftar judul anime bergenre *romance* yang memiliki kualitas cerita dan penulisan karakter yang sangat baik, namun jarang dibicarakan (*underrated*).
